@@ -19,3 +19,5 @@ ai-gym-coach/
 
 *Tech Stack  
 Frontend : HTML,CSS,JavaScript,React.js  
+Backend : Python,Flask/FastAPI  
+AI & ML : OpenAI API / Gemini API,Machine Learning Models  

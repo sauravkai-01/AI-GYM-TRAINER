@@ -15,4 +15,7 @@ ai-gym-coach/
 ├── LandingPage/      # Project landing page  
 ├── Main App/         # Main AI Gym Coach application  
 ├── README.md  
-└── .gitignore
+└── .gitignore  
+
+*Tech Stack
+Frontend : HTML,CSS,JavaScript,React.js  

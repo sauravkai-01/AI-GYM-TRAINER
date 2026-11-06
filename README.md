@@ -10,9 +10,9 @@ AI Gym Coach is an intelligent fitness assistant designed to help users achieve 
 🏃 Exercise guidance and form assistance  
 
 *Project Structure
-ai-gym-coach/
+ai-gym-coach/  
 │
-├── LandingPage/      # Project landing page
-├── Main App/         # Main AI Gym Coach application
-├── README.md
+├── LandingPage/      # Project landing page  
+├── Main App/         # Main AI Gym Coach application  
+├── README.md  
 └── .gitignore

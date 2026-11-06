@@ -17,5 +17,5 @@ ai-gym-coach/
 ├── README.md  
 └── .gitignore  
 
-*Tech Stack
+*Tech Stack  
 Frontend : HTML,CSS,JavaScript,React.js  

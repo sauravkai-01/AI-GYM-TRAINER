@@ -29,3 +29,10 @@ Node.js (v18 or later)
 npm or yarn  
 Python 3.9+  
 Git
+
+*Usage:  
+Launch the application.  
+Create or log in to your account.  
+Enter your fitness goals.  
+Receive personalized workout recommendations.  
+Track your progress over time.  

@@ -21,3 +21,11 @@ ai-gym-coach/
 Frontend : HTML,CSS,JavaScript,React.js  
 Backend : Python,Flask/FastAPI  
 AI & ML : OpenAI API / Gemini API,Machine Learning Models  
+
+*Prerequisites
+Before running the project, make sure you have installed:  
+
+Node.js (v18 or later)  
+npm or yarn  
+Python 3.9+  
+Git

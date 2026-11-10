@@ -40,3 +40,10 @@ Landing Page
 Dashboard  
 Workout Recommendations  
 Progress Tracking  
+
+*Future Enhancements : 
+Voice-enabled coaching  
+Real-time posture detection  
+Nutrition recommendations  
+Wearable device integration  
+Advanced AI fitness analysis  

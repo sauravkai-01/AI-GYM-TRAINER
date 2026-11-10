@@ -36,3 +36,7 @@ Create or log in to your account.
 Enter your fitness goals.  
 Receive personalized workout recommendations.  
 Track your progress over time.  
+Landing Page  
+Dashboard  
+Workout Recommendations  
+Progress Tracking  
